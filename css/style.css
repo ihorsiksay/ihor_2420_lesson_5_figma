@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  color: inherit;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  font-size: inherit;
+}
+img {
+  vertical-align: top;
+}
+
+body,
+html {
+  height: 100%;
+  line-height: 1;
+}
+
+body {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #424551;
+}
+.wrapper {
+  max-width: 1920px;
+}
+.container {
+  max-width: 810px;
+  margin: 0px auto;
+}
+.header {
+}
+h1 {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  color: #1e212c;
+  margin: 118px 0px 92px 0px;
+}
+img {
+  margin: 0px 0px 60px 0px;
+}
+[class*="subtitle"] {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 150%;
+  color: #1e212c;
+}
+.subtitle {
+  margin: 0px 0px 24px 0px;
+}
+.normal__text {
+  margin: 0px 0px 26px 0px;
+}
+.normal1__text {
+  margin: 0px 0px 48px 0px;
+}
+.subtitle__quote {
+  padding: 0px 0px 0px 60px;
+  margin: 0px 0px 48px 0px;
+}
+.norma__text {
+  margin: 0px 0px 24px 0px;
+}
+.list {
+  padding: 0px 0px 0px 33px;
+  margin: 0px 0px 24px 0px;
+}
+.footer__text {
+  margin: 0px 0px 212px 0px;
+}
